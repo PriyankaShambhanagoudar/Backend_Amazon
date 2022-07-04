@@ -14,6 +14,9 @@ const data = {
       numReviews: 10,
       description: 'high quality shirt',
     },
+
+
+
     {
       _id: '2',
       name: 'Adidas Fit Shirt',
