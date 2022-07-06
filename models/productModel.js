@@ -1,5 +1,4 @@
 import mongoose from 'mongoose';
-//backend/routes/
 const productSchema = new mongoose.Schema(
     {
         name: { type: String, required: true, unique: true },
