@@ -73,3 +73,11 @@ const data = {
   ],
 };
 export default data;
+
+
+
+/* 
+paypal
+priyankashambhanagoudar82@gmail.com
+Priyanka@123
+*/
