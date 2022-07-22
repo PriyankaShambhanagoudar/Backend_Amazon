@@ -78,6 +78,8 @@ export default data;
 
 /* 
 paypal
-priyankashambhanagoudar82@gmail.com
+priyassss789@gmail.com
+Priyanka@123
+test
 Priyanka@123
 */
